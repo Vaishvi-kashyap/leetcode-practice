@@ -7,6 +7,7 @@ public:
         string rev = s;
         reverse(rev.begin(), rev.end());
         cout << rev << endl;
+        
         for (int i = 1; i < m + 1; i++) {
             for (int j = 1; j < m + 1; j++) {
                 if (s[i - 1] == rev[j - 1]) {
