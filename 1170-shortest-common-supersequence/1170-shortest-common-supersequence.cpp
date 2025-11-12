@@ -13,7 +13,7 @@ public:
                 }
             }
         }
-
+        cout << dp[m][n] << endl;
         // Step 2: Backtrack to build SCS
 
         int i = m, j = n;
