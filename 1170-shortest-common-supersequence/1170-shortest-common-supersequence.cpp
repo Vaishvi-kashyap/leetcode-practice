@@ -42,7 +42,7 @@ public:
             ans += str2[j - 1];
             j--;
         }
-
+        cout << ans << endl;
         reverse(ans.begin(), ans.end());
         return ans;
     }
