@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0132-palindrome-partitioning-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0415-add-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
