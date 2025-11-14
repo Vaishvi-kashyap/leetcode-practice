@@ -1,0 +1,42 @@
+class Solution {
+public:
+    vector<vector<int>> rangeAddQueries(int n, vector<vector<int>>& queries) {
+        vector<vector<int>> diff(n + 1, vector<int>(n + 1, 0));
+
+        // mark difference matrix
+        for (auto& q : queries) {
+            int r1 = q[0], c1 = q[1];
+            int r2 = q[2], c2 = q[3];
+
+            diff[r1][c1] += 1;
+            if (c2 + 1 < n)
+                diff[r1][c2 + 1] -= 1;
+            if (r2 + 1 < n)
+                diff[r2 + 1][c1] -= 1;
+            if (r2 + 1 < n && c2 + 1 < n)
+                diff[r2 + 1][c2 + 1] += 1;
+        }
+
+        // build prefix sum row-wise
+        for (int i = 0; i < n; i++) {
+            for (int j = 1; j < n; j++) {
+                diff[i][j] += diff[i][j - 1];
+            }
+        }
+
+        // build prefix sum column-wise
+        for (int j = 0; j < n; j++) {
+            for (int i = 1; i < n; i++) {
+                diff[i][j] += diff[i - 1][j];
+            }
+        }
+
+        // trim matrix to n x n
+        vector<vector<int>> result(n, vector<int>(n));
+        for (int i = 0; i < n; i++)
+            for (int j = 0; j < n; j++)
+                result[i][j] = diff[i][j];
+
+        return result;
+    }
+};
