@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0039-combination-sum) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0001-two-sum) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Stack
 |  |
