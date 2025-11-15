@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0415-add-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0415-add-strings) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -110,4 +111,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
