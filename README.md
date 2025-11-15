@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## String Matching
 |  |
@@ -131,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+## Enumeration
+|  |
+| ------- |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 <!---LeetCode Topics End-->
