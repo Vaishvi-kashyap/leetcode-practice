@@ -128,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
 ## Design
@@ -164,8 +166,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
