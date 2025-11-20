@@ -48,7 +48,6 @@ public:
                 copy->next = copy->next->next;
             temp = temp->next;
         }
-
         return newHead;
     }
 };
