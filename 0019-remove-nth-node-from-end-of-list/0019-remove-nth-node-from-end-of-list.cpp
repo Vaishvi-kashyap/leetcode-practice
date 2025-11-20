@@ -20,8 +20,6 @@ public:
         for (int i = 0; i <= n; i++) {
             fast = fast->next;
         }
-        if (fast)
-            cout << fast->val;
 
         while (fast != NULL) {
             slow = slow->next;
