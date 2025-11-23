@@ -15,7 +15,7 @@ public:
         ListNode* temp = dummy;
         int sum, carry = 0;
 
-        while (l1 != NULL || l1 != NULL) {
+        while (l1 != NULL || l2 != NULL) {
             sum = carry;
             if (l1 != NULL) {
                 sum += l1->val;
