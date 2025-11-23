@@ -17,6 +17,7 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
+
         if (slow)
             cout << slow->val << endl;
 
@@ -27,6 +28,8 @@ public:
             prev = slow;
             slow = next;
         }
+        if (prev)
+            cout << prev->val << endl;
 
         ListNode* first = head;
         ListNode* second = prev;
