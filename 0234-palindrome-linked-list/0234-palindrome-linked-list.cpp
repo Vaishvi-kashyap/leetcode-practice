@@ -28,6 +28,7 @@ public:
             prev = slow;
             slow = next;
         }
+        
         if (prev)
             cout << prev->val << endl;
 
