@@ -12,26 +12,23 @@ class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
         ListNode* temp = head;
-        int count = 0;
-        while (count < k) {
+        for (int i = 0; i < k; i++) {
             if (temp == NULL)
                 return head;
             temp = temp->next;
-            count++;
         }
+
         if (temp)
             cout << temp->val << endl;
 
         ListNode* prevNode = reverseKGroup(temp, k);
 
         temp = head;
-        count = 0;
-        while (count < k) {
+        for (int i = 0; i < k; i++) {
             ListNode* next = temp->next;
             temp->next = prevNode;
             prevNode = temp;
             temp = next;
-            count++;
         }
         return prevNode;
     }
