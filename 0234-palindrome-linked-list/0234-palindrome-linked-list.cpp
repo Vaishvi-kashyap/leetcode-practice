@@ -28,17 +28,14 @@ public:
             prev = slow;
             slow = next;
         }
-        
-        if (prev)
-            cout << prev->val << endl;
 
-        ListNode* first = head;
-        ListNode* second = prev;
-        while (second != NULL) {
-            if (first->val != second->val)
+        slow = head;
+        fast = prev;
+        while (fast != NULL) {
+            if (slow->val != fast->val)
                 return false;
-            first = first->next;
-            second = second->next;
+            slow = slow->next;
+            fast = fast->next;
         }
         return true;
     }
