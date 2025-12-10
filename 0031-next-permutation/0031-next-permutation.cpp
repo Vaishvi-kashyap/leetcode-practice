@@ -13,12 +13,13 @@ public:
 
         if (pivot == -1) {
             reverse(nums.begin(), nums.end());
+            return;
         }
 
         // find the rightmost element
         for (int i = n - 1; i > pivot; i--) {
             if (nums[i] > nums[pivot]) {
-                swap(nums[i], nums[pivot]);
+                swap(nums[pivot], nums[i]);
                 break;
             }
         }
