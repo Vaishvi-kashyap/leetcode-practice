@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0141-linked-list-cycle) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
