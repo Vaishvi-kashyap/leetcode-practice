@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Geometry
 |  |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Brainteaser
 |  |
 | ------- |
