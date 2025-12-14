@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Bit Manipulation
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1925-count-square-sum-triples](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
