@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3583-count-special-triplets) |
 ## Matrix
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Brainteaser
 |  |
