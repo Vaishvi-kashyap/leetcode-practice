@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1170-shortest-common-supersequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0759-set-intersection-size-at-least-two) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
