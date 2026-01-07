@@ -24,9 +24,9 @@ public:
                 sum += l2->val;
                 l2 = l2->next;
             }
+
             carry = sum / 10;
             sum %= 10;
-            cout << "carry: " << carry << " sum: " << sum << endl;
 
             ListNode* res = new ListNode(sum);
             temp->next = res;
@@ -35,6 +35,7 @@ public:
         if (carry == 1) {
             temp->next = new ListNode(1);
         }
+
         return dummy->next;
     }
 };
