@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0493-reverse-pairs) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
