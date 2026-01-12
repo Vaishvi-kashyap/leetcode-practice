@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0234-palindrome-linked-list) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0493-reverse-pairs) |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
