@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // TC:O(m*n),SC:O(m*n)
     void dfs(vector<vector<int>>& image, int sr, int sc, int oldColor,
              int newColor) {
         if (sr < 0 || sr >= image.size() || sc < 0 || sc >= image[0].size() ||
