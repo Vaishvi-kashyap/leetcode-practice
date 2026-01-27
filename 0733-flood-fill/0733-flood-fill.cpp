@@ -1,23 +1,22 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& image, int i, int j, int newColor,
-             int originalColor) {
-        // Boundary check and same color check
-        if (i < 0 || j < 0 || i >= image.size() || j >= image[0].size() ||
-            image[i][j] != originalColor || image[i][j] == newColor)
+    void dfs(vector<vector<int>>& image, int sr, int sc, int oldColor,
+             int newColor) {
+        if (sr < 0 || sr >= image.size() || sc < 0 || sc >= image[0].size() ||
+            image[sr][sc] != oldColor || image[sr][sc] == newColor)
             return;
-
-        image[i][j] = newColor; // Fill with new color
-
-        // 4-directional movement
-        dfs(image, i + 1, j, newColor, originalColor);
-        dfs(image, i - 1, j, newColor, originalColor);
-        dfs(image, i, j + 1, newColor, originalColor);
-        dfs(image, i, j - 1, newColor, originalColor);
+        image[sr][sc] = newColor;
+        dfs(image, sr - 1, sc, oldColor, newColor);
+        dfs(image, sr + 1, sc, oldColor, newColor);
+        dfs(image, sr, sc - 1, oldColor, newColor);
+        dfs(image, sr, sc + 1, oldColor, newColor);
     }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,
-                                  int color) {
-        dfs(image, sr, sc, color, image[sr][sc]);
+                                  int newColor) {
+        int oldColor = image[sr][sc];
+        if (image[sr][sc] == newColor)
+            return image;
+        dfs(image, sr, sc, oldColor, newColor);
         return image;
     }
 };
