@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1170-shortest-common-supersequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1170-shortest-common-supersequence) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0493-reverse-pairs) |
+| [0542-01-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0542-01-matrix) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0759-set-intersection-size-at-least-two) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0994-rotting-oranges) |
