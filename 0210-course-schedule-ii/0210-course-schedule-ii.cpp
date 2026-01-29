@@ -1,69 +1,41 @@
 class Solution {
 public:
-    bool isCycleDFS(int src, vector<vector<int>>& graph, vector<bool>& vis,
-                    vector<bool>& recPath) {
-        vis[src] = true;
-        recPath[src] = true;
-
-        for (int neighbor : graph[src]) {
-            if (!vis[neighbor]) {
-                if (isCycleDFS(neighbor, graph, vis, recPath))
-                    return true;
-            } else if (recPath[neighbor]) {
-                return true;
-            }
+    vector<int> findOrder(int V, vector<vector<int>>& edges) {
+        vector<vector<int>> adj(V);
+        for (auto e : edges) {
+            int u = e[0];
+            int v = e[1];
+            adj[v].push_back(u);
         }
 
-        recPath[src] = false;
-        return false;
-    }
-
-    void topoSort(int src, vector<bool>& vis, stack<int>& s,
-                  vector<vector<int>>& graph) {
-        vis[src] = true;
-
-        for (int neighbor : graph[src]) {
-            if (!vis[neighbor]) {
-                topoSort(neighbor, vis, s, graph);
-            }
-        }
-
-        s.push(src); // Push after processing all neighbors
-    }
-
-    vector<int> findOrder(int V, vector<vector<int>>& prerequisites) {
-        // Build adjacency list
-        vector<vector<int>> graph(V);
-        for (auto& pre : prerequisites) {
-            graph[pre[1]].push_back(pre[0]); // pre[1] -> pre[0]
-        }
-
-        // Cycle detection
-        vector<bool> vis(V, false);
-        vector<bool> recPath(V, false);
+        vector<int> inDegree(V, 0);
 
         for (int i = 0; i < V; i++) {
-            if (!vis[i]) {
-                if (isCycleDFS(i, graph, vis, recPath))
-                    return {}; // Return empty array if cycle exists
+            for (int it : adj[i]) {
+                inDegree[it]++;
             }
         }
 
-        // Topological sort
-        stack<int> s;
-        vis.assign(V, false); // Reset visited array
-
+        queue<int> q;
+        vector<int> res;
         for (int i = 0; i < V; i++) {
-            if (!vis[i]) {
-                topoSort(i, vis, s, graph);
+            if (inDegree[i] == 0) {
+                q.push(i);
+            }
+        }
+        while (!q.empty()) {
+            int src = q.front();
+            q.pop();
+            res.push_back(src);
+            for (int neighbor : adj[src]) {
+                inDegree[neighbor]--;
+                if (inDegree[neighbor] == 0)
+                    q.push(neighbor);
             }
         }
 
-        vector<int> ans;
-        while (!s.empty()) {
-            ans.push_back(s.top());
-            s.pop();
-        }
-        return ans;
+        if (res.size() == V)
+            return res;
+        return {};
     }
 };
