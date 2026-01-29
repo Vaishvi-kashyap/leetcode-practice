@@ -1,19 +1,15 @@
 class Solution {
 public:
-    bool bfs(int src, vector<vector<int>>& graph, int V, vector<int>& color) {
-        queue<int> q;
-        q.push(src);
-        color[src] = 0;
-        while (!q.empty()) {
-            int curr = q.front();
-            q.pop();
-            for (auto neighbor : graph[curr]) {
-                if (color[neighbor] == -1) {
-                    color[neighbor] = !color[curr];
-                    q.push(neighbor);
-                } else if (color[neighbor] == color[curr])
+    bool dfs(int src, vector<vector<int>>& graph, int orgColor,
+             vector<int>& color) {
+        color[src] = orgColor;
+
+        for (auto neighbor : graph[src]) {
+            if (color[neighbor] == -1) {
+                if (!dfs(neighbor, graph, !orgColor, color))
                     return false;
-            }
+            } else if (color[neighbor] == orgColor)
+                return false;
         }
         return true;
     }
@@ -22,7 +18,7 @@ public:
         vector<int> color(V, -1);
         for (int i = 0; i < V; i++) {
             if (color[i] == -1) {
-                if (!bfs(i, graph, V, color))
+                if (!dfs(i, graph, 0, color))
                     return false;
             }
         }
