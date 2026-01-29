@@ -1,33 +1,41 @@
 class Solution {
 public:
-    bool isCycleDFS(int src, vector<vector<int>>& edge, vector<bool>& vis,
-                    vector<bool>& recPath) {
-        vis[src] = true;
-        recPath[src] = true;
-        for (int i = 0; i < edge.size(); i++) {
-            int v = edge[i][0];
-            int u = edge[i][1];
-            if (u == src) {
-                if (!vis[v]) {
-                    if (isCycleDFS(v, edge, vis, recPath))
-                        return true;
-                } else if (recPath[v]) {
-                    return true;
-                }
-            }
+    bool canFinish(int V, vector<vector<int>>& edges) {
+        vector<vector<int>> adj(V);
+        for (auto e : edges) {
+            int u = e[0];
+            int v = e[1];
+            adj[u].push_back(v);
         }
-        recPath[src] = false;
-        return false;
-    }
-    bool canFinish(int V, vector<vector<int>>& edge) {
-        vector<bool> vis(V, false);
-        vector<bool> recPath(V, false);
+
+        vector<int> inDegree(V, 0);
+
         for (int i = 0; i < V; i++) {
-            if (!vis[i]) {
-                if (isCycleDFS(i, edge, vis, recPath))
-                    return false;
+            for (int it : adj[i]) {
+                inDegree[it]++;
             }
         }
-        return true;
+
+        queue<int> q;
+        vector<int> res;
+        for (int i = 0; i < V; i++) {
+            if (inDegree[i] == 0) {
+                q.push(i);
+            }
+        }
+        while (!q.empty()) {
+            int src = q.front();
+            q.pop();
+            res.push_back(src);
+            for (int neighbor : adj[src]) {
+                inDegree[neighbor]--;
+                if (inDegree[neighbor] == 0)
+                    q.push(neighbor);
+            }
+        }
+
+        if (res.size() == V)
+            return true;
+        return false;
     }
 };
