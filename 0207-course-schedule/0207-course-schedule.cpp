@@ -17,7 +17,7 @@ public:
         }
 
         queue<int> q;
-        vector<int> res;
+        int count = 0;
         for (int i = 0; i < V; i++) {
             if (inDegree[i] == 0) {
                 q.push(i);
@@ -26,7 +26,7 @@ public:
         while (!q.empty()) {
             int src = q.front();
             q.pop();
-            res.push_back(src);
+            count++;
             for (int neighbor : adj[src]) {
                 inDegree[neighbor]--;
                 if (inDegree[neighbor] == 0)
@@ -34,7 +34,7 @@ public:
             }
         }
 
-        if (res.size() == V)
+        if (count == V)
             return true;
         return false;
     }
