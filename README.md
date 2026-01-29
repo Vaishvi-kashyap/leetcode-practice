@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
 ## Design
@@ -474,8 +476,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
