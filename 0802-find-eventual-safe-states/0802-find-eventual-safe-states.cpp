@@ -36,7 +36,7 @@ public:
             }
         }
 
-        sort(ans.begin(), ans.end()); // LeetCode needs sorted
+        sort(ans.begin(), ans.end());
         return ans;
     }
 };
