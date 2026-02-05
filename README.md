@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0126-word-ladder-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0039-combination-sum) |
+| [0126-word-ladder-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0126-word-ladder-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0138-copy-list-with-random-pointer) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
