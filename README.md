@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
