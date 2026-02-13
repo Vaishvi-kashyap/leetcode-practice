@@ -1,12 +1,8 @@
 class MyStack {
 public:
-    //TC: Push:O(N),Pop:O(1),Top:O(1),Empty:O(1)
     queue<int> q1;
     queue<int> q2;
-
-    MyStack() {
-
-    }
+    MyStack() {}
 
     void push(int x) {
         while (!q1.empty()) {
@@ -21,17 +17,17 @@ public:
     }
 
     int pop() {
-        int ans = q1.front();
+        int temp = q1.front();
         q1.pop();
-        return ans;
+        return temp;
     }
 
-    int top() { 
-        return q1.front(); 
-    }
+    int top() { return q1.front(); }
 
-    bool empty() { 
-        return q1.empty(); 
+    bool empty() {
+        if (q1.empty())
+            return true;
+        return false;
     }
 };
 
