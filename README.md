@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0126-word-ladder-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0127-word-ladder) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
