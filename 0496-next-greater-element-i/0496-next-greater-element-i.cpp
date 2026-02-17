@@ -1,30 +1,25 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int, int> nextGreater;
+        unordered_map<int, int> nge; // element, next greater
         stack<int> st;
 
-        // Process nums2
-        for (int num : nums2) {
-            while (!st.empty() && num > st.top()) {
-                nextGreater[st.top()] = num;
+        for (int i = nums2.size() - 1; i >= 0; i--) {
+            while (!st.empty() && st.top() < nums2[i]) {
                 st.pop();
             }
-            st.push(num);
+            if (st.empty()) {
+                nge[nums2[i]] = -1;
+            } else {
+                nge[nums2[i]] = st.top();
+            }
+            st.push(nums2[i]);
         }
 
-        // Remaining elements have no greater element
-        while (!st.empty()) {
-            nextGreater[st.top()] = -1;
-            st.pop();
+        vector<int> res;
+        for (int val : nums1) {
+            res.push_back(nge[val]);
         }
-
-        // Build result for nums1
-        vector<int> ans;
-        for (int num : nums1) {
-            ans.push_back(nextGreater[num]);
-        }
-
-        return ans;
+        return res;
     }
 };
