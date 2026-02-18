@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
         vector<int> st;
-
         for (int val : asteroids) {
             while (!st.empty() && st.back() > 0 && val < 0) {
                 if (st.back() < -val) {
