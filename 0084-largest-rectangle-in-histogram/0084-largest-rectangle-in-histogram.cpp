@@ -11,10 +11,10 @@ public:
                 int h = heights[st.top()];
                 st.pop();
 
-                int right = i;
-                int left = st.empty() ? -1 : st.top();
+                int nse = i;
+                int pse = st.empty() ? -1 : st.top();
 
-                maxArea = max(maxArea, h * (right - left - 1));
+                maxArea = max(maxArea, h * (nse - pse - 1));
             }
 
             st.push(i);
