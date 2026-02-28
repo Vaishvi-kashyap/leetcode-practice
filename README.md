@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Memoization
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0735-asteroid-collision) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2211-count-collisions-on-a-road](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2288-count-operations-to-obtain-zero) |
