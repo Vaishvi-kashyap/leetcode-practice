@@ -13,23 +13,23 @@ public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode* dummy = new ListNode(-1);
         dummy->next = head;
-        ListNode* slow = dummy;
         ListNode* fast = dummy;
-        for (int i = 0; i <= n; i++) {
-            if (fast == NULL) {
-                return fast;
-            }
+        ListNode* slow = dummy;
+        for (int i = 0; i < n; i++) {
             fast = fast->next;
         }
+
         if (fast)
             cout << fast->val << endl;
 
-        while (fast != NULL) {
+        while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next;
         }
+
         if (slow)
-            cout << slow->val << endl;
+            cout << slow->val;
+
         slow->next = slow->next->next;
         return dummy->next;
     }
