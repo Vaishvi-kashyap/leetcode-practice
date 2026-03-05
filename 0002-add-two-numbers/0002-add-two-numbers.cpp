@@ -14,7 +14,7 @@ public:
         ListNode* dummy = new ListNode(-1);
         ListNode* temp = dummy;
         int sum = 0, carry = 0;
-        while (l1 != NULL || l2 != NULL) {
+        while (l1 || l2) {
             sum = carry;
             if (l1 != NULL) {
                 sum += l1->val;
@@ -27,15 +27,15 @@ public:
 
             carry = sum / 10;
             sum %= 10;
+            cout << carry << " " << sum << endl;
 
-            ListNode* res = new ListNode(sum);
-            temp->next = res;
+            temp->next = new ListNode(sum);
             temp = temp->next;
         }
         if (carry == 1) {
             temp->next = new ListNode(1);
+            temp = temp->next;
         }
-
         return dummy->next;
     }
 };
