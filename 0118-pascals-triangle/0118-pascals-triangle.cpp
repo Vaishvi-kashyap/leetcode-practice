@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> res;
+
         if (numRows == 0)
             return res;
 
@@ -15,10 +16,10 @@ public:
             vector<int> row;
 
             row.push_back(1);
+
             for (int j = 0; j < i - 1; j++) {
                 row.push_back(prevRow[j] + prevRow[j + 1]);
             }
-
             row.push_back(1);
             res.push_back(row);
         }
