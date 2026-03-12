@@ -2,8 +2,9 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int idx = -1, n = nums.size();
+
         for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
+            if (nums[i + 1] > nums[i]) {
                 idx = i;
                 break;
             }
@@ -15,7 +16,7 @@ public:
         }
 
         for (int i = n - 1; i > idx; i--) {
-            if (nums[idx] < nums[i]) {
+            if (nums[i] > nums[idx]) {
                 swap(nums[i], nums[idx]);
                 break;
             }
