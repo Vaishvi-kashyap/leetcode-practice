@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0148-sort-list) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0759-set-intersection-size-at-least-two) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0118-pascals-triangle) |
