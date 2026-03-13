@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0493-reverse-pairs) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0493-reverse-pairs) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0701-insert-into-a-binary-search-tree) |
