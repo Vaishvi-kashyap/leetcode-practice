@@ -10,16 +10,15 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* h1, ListNode* h2) {
-        if (h1 == NULL || h2 == NULL) {
-            return h1 == NULL ? h2 : h1;
-        }
-        if (h1->val <= h2->val) {
-            h1->next = mergeTwoLists(h1->next, h2);
-            return h1;
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        if (list1 == NULL || list2 == NULL)
+            return list1 == NULL ? list2 : list1;
+        if (list1->val <= list2->val) {
+            list1->next = mergeTwoLists(list1->next, list2);
+            return list1;
         } else {
-            h2->next = mergeTwoLists(h1, h2->next);
-            return h2;
+            list2->next = mergeTwoLists(list1, list2->next);
+            return list2;
         }
     }
 };
