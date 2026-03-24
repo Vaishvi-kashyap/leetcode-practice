@@ -13,7 +13,8 @@ public:
     bool isPalindrome(ListNode* head) {
         ListNode* slow = head;
         ListNode* fast = head;
-        while (fast != NULL && fast->next != NULL) {
+
+        while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
@@ -22,7 +23,7 @@ public:
             cout << slow->val << endl;
 
         ListNode* prev = NULL;
-        while (slow != NULL) {
+        while (slow) {
             ListNode* next = slow->next;
             slow->next = prev;
             prev = slow;
@@ -31,7 +32,7 @@ public:
 
         slow = head;
         fast = prev;
-        while (fast != NULL) {
+        while (fast) {
             if (slow->val != fast->val)
                 return false;
             slow = slow->next;
