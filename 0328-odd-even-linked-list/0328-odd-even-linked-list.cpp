@@ -11,8 +11,10 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
+        if (head == NULL)
+            return head;
         ListNode* slow = head;
-        ListNode* fast = slow->next;
+        ListNode* fast = head->next;
         ListNode* connect = fast;
 
         while (fast && fast->next) {
