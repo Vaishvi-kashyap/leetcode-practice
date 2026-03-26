@@ -19,30 +19,37 @@ public:
     Node* copyRandomList(Node* head) {
         if (head == NULL)
             return head;
-        Node* temp = head;
-        while (temp != NULL) {
-            Node* newNode = new Node(temp->val);
-            newNode->next = temp->next;
-            temp->next = newNode;
-            temp = newNode->next;
+
+        // Step 1: Interleave copied nodes
+        Node* oldTemp = head;
+        while (oldTemp) {
+            Node* newNode = new Node(oldTemp->val);
+            newNode->next = oldTemp->next;
+            oldTemp->next = newNode;
+            oldTemp = newNode->next;
         }
 
-        temp = head;
-        while (temp != NULL) {
-            if (temp->random != NULL)
-                temp->next->random = temp->random->next;
-            temp = temp->next->next;
+        // Step 2: Assign random pointers
+        oldTemp = head;
+        while (oldTemp) {
+            if (oldTemp->random)
+                oldTemp->next->random = oldTemp->random->next;
+            oldTemp = oldTemp->next->next;
         }
 
-        temp = head;
+        // Step 3: Separate the lists
         Node* newHead = head->next;
-        while (temp != NULL) {
-            Node* newNode = temp->next;
-            temp->next = newNode->next;
-            if (newNode->next != NULL)
-                newNode->next = newNode->next->next;
-            temp = temp->next;
+        Node* newTemp = newHead;
+        oldTemp = head;
+
+        while (oldTemp) {
+            oldTemp->next = oldTemp->next->next;
+            if (newTemp->next)
+                newTemp->next = newTemp->next->next;
+            oldTemp = oldTemp->next;
+            newTemp = newTemp->next;
         }
+
         return newHead;
     }
 };
