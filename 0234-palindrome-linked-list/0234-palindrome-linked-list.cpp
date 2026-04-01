@@ -30,10 +30,10 @@ public:
             slow = next;
         }
 
-        slow = head;
-        fast = prev;
-        while (fast) {
-            if (slow->val != fast->val)
+        fast = head;
+        slow = prev;
+        while (fast && slow) {
+            if (fast->val != slow->val)
                 return false;
             slow = slow->next;
             fast = fast->next;
