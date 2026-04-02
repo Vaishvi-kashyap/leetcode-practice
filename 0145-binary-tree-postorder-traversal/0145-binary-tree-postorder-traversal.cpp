@@ -16,24 +16,21 @@ public:
         vector<int> ans;
         if (root == NULL)
             return ans;
-        stack<TreeNode*> s1;
-        TreeNode* curr = root;
-        TreeNode* lastVisted = NULL;
-        while (curr != NULL || !s1.empty()) {
-            while (curr != NULL) {
-                s1.push(curr);
-                curr = curr->left;
-            }
+        stack<TreeNode*> s1, s2;
+        s1.push(root);
 
-            TreeNode* node = s1.top();
-
-            if (node->right != NULL && lastVisted != node->right) {
-                curr = node->right;
-            } else {
-                ans.push_back(node->val);
-                lastVisted = node;
-                s1.pop();
-            }
+        while (!s1.empty()) {
+            TreeNode* curr = s1.top();
+            s1.pop();
+            s2.push(curr);
+            if (curr->left)
+                s1.push(curr->left);
+            if (curr->right)
+                s1.push(curr->right);
+        }
+        while (!s2.empty()) {
+            ans.push_back(s2.top()->val);
+            s2.pop();
         }
         return ans;
     }
