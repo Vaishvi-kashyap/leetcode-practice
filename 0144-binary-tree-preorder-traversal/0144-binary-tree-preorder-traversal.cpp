@@ -12,30 +12,16 @@
  */
 class Solution {
 public:
-    vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> ans;
+    void preorderHelper(TreeNode* root, vector<int>& res) {
         if (root == NULL)
-            return ans;
-        TreeNode* curr = root;
-        while (curr != NULL) {
-            if (curr->left == NULL) {
-                ans.push_back(curr->val);
-                curr = curr->right;
-            } else {
-                TreeNode* ip = curr->left;
-                while (ip->right != NULL && ip->right != curr) {
-                    ip = ip->right;
-                }
-                if (ip->right == NULL) {
-                    ip->right = curr;
-                    ans.push_back(curr->val);
-                    curr = curr->left;
-                } else {
-                    ip->right = NULL;
-                    curr = curr->right;
-                }
-            }
-        }
-        return ans;
+            return;
+        res.push_back(root->val);
+        preorderHelper(root->left, res);
+        preorderHelper(root->right, res);
+    }
+    vector<int> preorderTraversal(TreeNode* root) {
+        vector<int> res;
+        preorderHelper(root, res);
+        return res;
     }
 };
