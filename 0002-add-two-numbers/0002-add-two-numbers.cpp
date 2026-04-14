@@ -14,7 +14,6 @@ public:
         ListNode* dummy = new ListNode(-1);
         ListNode* temp = dummy;
         int carry = 0;
-
         while (l1 || l2) {
             int sum = 0;
             sum += carry;
@@ -28,7 +27,6 @@ public:
             }
             carry = sum / 10;
             sum %= 10;
-            cout << carry << " " << sum << endl;
             temp->next = new ListNode(sum);
             temp = temp->next;
         }
