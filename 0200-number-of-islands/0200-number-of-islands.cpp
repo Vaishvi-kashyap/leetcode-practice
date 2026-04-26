@@ -1,32 +1,46 @@
 class Solution {
 public:
-    void dfs(vector<vector<char>>& grid, int i, int j) {
-        int n = grid.size();
-        int m = grid[0].size();
+    void bfs(vector<vector<char>>& grid, vector<vector<bool>>& vis, int row,
+             int col) {
+        int m = grid.size();
+        int n = grid[0].size();
+        queue<pair<int, int>> q;
+        vis[row][col] = true;
+        q.push({row, col});
 
-        if (i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == '0')
-            return;
+        int delrow[] = {-1, 0, +1, 0};
+        int delcol[] = {0, -1, 0, +1};
+        while (!q.empty()) {
+            int row1 = q.front().first;
+            int col1 = q.front().second;
+            q.pop();
 
-        grid[i][j] = '0';
+            for (int i = 0; i < 4; i++) {
+                int nrow = delrow[i] + row1;
+                int ncol = delcol[i] + col1;
 
-        dfs(grid, i - 1, j);
-        dfs(grid, i + 1, j);
-        dfs(grid, i, j - 1);
-        dfs(grid, i, j + 1);
-    }
-    int numIslands(vector<vector<char>>& grid) {
-        int count = 0;
-        int n = grid.size();
-        int m = grid[0].size();
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == '1') {
-                    count++;
-                    dfs(grid, i, j);
+                if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n &&
+                    grid[nrow][ncol] == '1' && !vis[nrow][ncol]) {
+                    vis[nrow][ncol] = true;
+                    q.push({nrow, ncol});
                 }
             }
         }
-        return count;
+    }
+    int numIslands(vector<vector<char>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
+        vector<vector<bool>> vis(m, vector<bool>(n, false));
+        int cnt = 0;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (!vis[i][j] && grid[i][j] == '1') {
+                    cnt++;
+                    bfs(grid, vis, i, j);
+                }
+            }
+        }
+        return cnt;
     }
 };
