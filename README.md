@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0994-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0994-rotting-oranges) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1020-number-of-enclaves](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
+| [1020-number-of-enclaves](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Design
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
