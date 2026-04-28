@@ -8,6 +8,7 @@ public:
         if (row < 0 || row >= m || col < 0 || col >= n || vis[row][col] ||
             board[row][col] != 'O')
             return;
+
         vis[row][col] = true;
 
         dfs(board, vis, row + 1, col);
