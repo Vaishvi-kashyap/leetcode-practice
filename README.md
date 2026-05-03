@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0796-rotate-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0796-rotate-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1170-shortest-common-supersequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1170-shortest-common-supersequence) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
