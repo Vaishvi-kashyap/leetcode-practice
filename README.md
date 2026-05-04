@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0050-powx-n) |
 | [0415-add-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0415-add-strings) |
 | [0788-rotated-digits](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0788-rotated-digits) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0085-maximal-rectangle) |
