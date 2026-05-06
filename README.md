@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0908-middle-of-the-linked-list) |
+| [1861-rotating-the-box](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1861-rotating-the-box) |
 ## String
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1590-make-sum-divisible-by-p) |
+| [1861-rotating-the-box](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1861-rotating-the-box) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1861-rotating-the-box](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1861-rotating-the-box) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2625-increment-submatrices-by-one) |
 ## Prefix Sum
