@@ -6,7 +6,7 @@ public:
             int u = edges[i][0];
             int v = edges[i][1];
 
-            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
 
         vector<int> indegree(V, 0);
