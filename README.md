@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2211-count-collisions-on-a-road](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2288-count-operations-to-obtain-zero) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1861-rotating-the-box](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1914-cyclically-rotating-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2625-increment-submatrices-by-one) |
 ## Prefix Sum
