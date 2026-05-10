@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3432-count-partitions-with-even-sum-difference) |
