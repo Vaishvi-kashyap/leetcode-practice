@@ -12,26 +12,26 @@
  */
 class Solution {
 public:
-    int search(vector<int>& inorder, int root, int left, int right) {
+    int inorderSearch(vector<int>& inorder, int root, int left, int right) {
         for (int i = left; i <= right; i++) {
             if (inorder[i] == root)
                 return i;
         }
         return -1;
     }
-    TreeNode* tree(vector<int>& inorder, vector<int>& postorder, int& postIdx,
-                   int left, int right) {
+    TreeNode* makeTree(vector<int>& inorder, vector<int>& postorder,
+                       int& postIdx, int left, int right) {
         if (left > right)
             return NULL;
         TreeNode* root = new TreeNode(postorder[postIdx]);
-        int inIdx = search(inorder, postorder[postIdx], left, right);
+        int idx = inorderSearch(inorder, postorder[postIdx], left, right);
         postIdx--;
-        root->right = tree(inorder, postorder, postIdx, inIdx + 1, right);
-        root->left = tree(inorder, postorder, postIdx, left, inIdx - 1);
+        root->right = makeTree(inorder, postorder, postIdx, idx + 1, right);
+        root->left = makeTree(inorder, postorder, postIdx, left, idx - 1);
         return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         int postIdx = postorder.size() - 1;
-        return tree(inorder, postorder, postIdx, 0, inorder.size() - 1);
+        return makeTree(inorder, postorder, postIdx, 0, inorder.size() - 1);
     }
 };
