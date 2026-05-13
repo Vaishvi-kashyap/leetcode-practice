@@ -19,19 +19,19 @@ public:
         }
         return -1;
     }
-    TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder,
-                        int& preIdx, int left, int right) {
+    TreeNode* makeTree(vector<int>& preorder, vector<int>& inorder, int& preIdx,
+                       int left, int right) {
         if (left > right)
             return NULL;
         TreeNode* root = new TreeNode(preorder[preIdx]);
         int idx = inorderSearch(inorder, preorder[preIdx], left, right);
         preIdx++;
-        root->left = buildTree(preorder, inorder, preIdx, left, idx - 1);
-        root->right = buildTree(preorder, inorder, preIdx, idx + 1, right);
+        root->left = makeTree(preorder, inorder, preIdx, left, idx - 1);
+        root->right = makeTree(preorder, inorder, preIdx, idx + 1, right);
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         int preIdx = 0;
-        return buildTree(preorder, inorder, preIdx, 0, inorder.size() - 1);
+        return makeTree(preorder, inorder, preIdx, 0, inorder.size() - 1);
     }
 };
