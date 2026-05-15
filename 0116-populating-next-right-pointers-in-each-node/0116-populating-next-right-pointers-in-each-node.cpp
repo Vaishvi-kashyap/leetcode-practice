@@ -22,9 +22,7 @@ public:
         if (root == NULL)
             return NULL;
         if (root->left) {
-            // same parent
             root->left->next = root->right;
-            // across parents
             if (root->next)
                 root->right->next = root->next->left;
         }
