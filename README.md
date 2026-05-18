@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1345-jump-game-iv](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1345-jump-game-iv) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1345-jump-game-iv](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1345-jump-game-iv) |
 | [1590-make-sum-divisible-by-p](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1345-jump-game-iv](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1345-jump-game-iv) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Design
 |  |
