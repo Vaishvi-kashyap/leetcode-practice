@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Memoization
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2625-increment-submatrices-by-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2784-check-if-array-is-good) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2784-check-if-array-is-good) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3531-count-covered-buildings) |
