@@ -15,7 +15,7 @@ public:
     TreeNode* buildTree(vector<int>& nums, int left, int right) {
         if (left > right)
             return NULL;
-        int mid = right + (left - right) / 2;
+        int mid = left + (right - left) / 2;
         TreeNode* root = new TreeNode(nums[mid]);
         root->left = buildTree(nums, left, mid - 1);
         root->right = buildTree(nums, mid + 1, right);
