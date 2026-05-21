@@ -1,40 +1,39 @@
 class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        const int n = grid.size();
-        if (grid[0][0] == 0 && n == 1)
-            return 1;
-        if (grid[0][0] == 1 || grid.back().back() == 1)
+        int n = grid.size();
+        queue<pair<int, pair<int, int>>> q; // {dis,{row,col}};
+        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
+
+        if (grid[0][0] == 1 || grid[n - 1][n - 1] == 1)
             return -1;
 
-        const vector<pair<int, int>> dirs{{-1, -1}, {-1, 0}, {-1, 1}, {0, -1},
-                                          {0, 1},   {1, -1}, {1, 0},  {1, 1}};
+        dist[0][0] = 1;
+        q.push({1, {0, 0}});
 
-        int ans = 0;
-        queue<pair<int, int>> q{{{0, 0}}};
-        vector<vector<bool>> seen(n, vector<bool>(n));
-        seen[0][0] = true;
+        // 8 directions
+        int delRow[] = {-1, -1, -1, 0, 0, 1, 1, 1};
+        int delCol[] = {-1, 0, 1, -1, 1, -1, 0, 1};
 
         while (!q.empty()) {
-            ++ans;
-            for (int sz = q.size(); sz > 0; --sz) {
-                const auto [i, j] = q.front();
-                q.pop();
-                for (const auto [dx, dy] : dirs) {
-                    const int x = i + dx;
-                    const int y = j + dy;
-                    if (x < 0 || x == n || y < 0 || y == n)
-                        continue;
-                    if (grid[x][y] != 0 || seen[x][y])
-                        continue;
-                    if (x == n - 1 && y == n - 1)
-                        return ans + 1;
-                    q.emplace(x, y);
-                    seen[x][y] = true;
+            int dis = q.front().first;
+            int row = q.front().second.first;
+            int col = q.front().second.second;
+            q.pop();
+
+            if (row == n - 1 && col == n - 1)
+                return dis;
+            for (int i = 0; i < 8; i++) {
+                int nrow = row + delRow[i];
+                int ncol = col + delCol[i];
+
+                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < n &&
+                    grid[nrow][ncol] == 0 && dis + 1 < dist[nrow][ncol]) {
+                    dist[nrow][ncol] = dis + 1;
+                    q.push({dis + 1, {nrow, ncol}});
                 }
             }
         }
-
         return -1;
     }
 };
