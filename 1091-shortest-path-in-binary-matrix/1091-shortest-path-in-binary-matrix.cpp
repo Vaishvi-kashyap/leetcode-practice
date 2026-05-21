@@ -23,6 +23,7 @@ public:
 
             if (row == n - 1 && col == n - 1)
                 return dis;
+
             for (int i = 0; i < 8; i++) {
                 int nrow = row + delRow[i];
                 int ncol = col + delCol[i];
