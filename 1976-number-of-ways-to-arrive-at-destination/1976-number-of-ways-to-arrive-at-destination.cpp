@@ -15,7 +15,7 @@ public:
                        greater<pair<long long, int>>>
             pq; //{dist,node}
         vector<long long> dist(n, LLONG_MAX);
-        vector<long long> ways(n, 0);
+        vector<int> ways(n, 0);
         int mod = 1e9 + 7;
 
         dist[0] = 0;
@@ -29,7 +29,7 @@ public:
 
             for (auto it : adj[node]) {
                 int adjNode = it.first;
-                long long weight = it.second;
+                int weight = it.second;
                 if (dis + weight < dist[adjNode]) {
                     dist[adjNode] = dis + weight;
                     pq.push({dis + weight, adjNode});
