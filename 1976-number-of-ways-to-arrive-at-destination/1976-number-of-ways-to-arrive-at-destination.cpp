@@ -27,9 +27,6 @@ public:
             int node = pq.top().second;
             pq.pop();
 
-            if (dis > dist[node])
-                continue;
-
             for (auto it : adj[node]) {
                 int adjNode = it.first;
                 long long weight = it.second;
