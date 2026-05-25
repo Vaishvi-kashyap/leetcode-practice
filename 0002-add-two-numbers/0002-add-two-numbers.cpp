@@ -13,9 +13,9 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode* dummy = new ListNode(-1);
         ListNode* temp = dummy;
-        int carry = 0, sum = 0;
+        int carry = 0;
         while (l1 || l2) {
-            sum = 0;
+            int sum = 0;
             sum += carry;
             if (l1) {
                 sum += l1->val;
