@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
