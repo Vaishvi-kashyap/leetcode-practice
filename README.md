@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0126-word-ladder-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0126-word-ladder-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
