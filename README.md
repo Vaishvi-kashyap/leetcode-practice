@@ -675,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1631-path-with-minimum-effort) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
