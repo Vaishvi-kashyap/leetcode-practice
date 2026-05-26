@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0542-01-matrix) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0485-max-consecutive-ones) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0493-reverse-pairs) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0701-insert-into-a-binary-search-tree) |
