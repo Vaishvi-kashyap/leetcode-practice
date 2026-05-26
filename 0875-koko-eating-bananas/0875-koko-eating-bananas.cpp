@@ -3,7 +3,7 @@ public:
     long long totalhr(vector<int>& piles, int k) {
         long long hours = 0;
         for (int val : piles) {
-            hours += ceil((double)val / k);
+            hours += (val + k - 1) / k;
         }
         return hours;
     }
