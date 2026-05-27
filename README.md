@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0068-text-justification](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0068-text-justification) |
 | [0126-word-ladder-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0132-palindrome-partitioning-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0075-sort-colors) |
