@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0908-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1861-rotating-the-box) |
 ## String
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1768-merge-strings-alternately](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
