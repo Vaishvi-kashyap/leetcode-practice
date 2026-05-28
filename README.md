@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2887-sort-vowels-in-a-string) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3531-count-covered-buildings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3606-coupon-code-validator) |
 ## Math
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3623-count-number-of-trapezoids-i) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -622,9 +625,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1631-path-with-minimum-effort](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1631-path-with-minimum-effort) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Geometry
 |  |
 | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Queue
