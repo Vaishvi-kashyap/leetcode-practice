@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0415-add-strings) |
 | [0788-rotated-digits](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0788-rotated-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0204-count-primes) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1925-count-square-sum-triples) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Linked List
