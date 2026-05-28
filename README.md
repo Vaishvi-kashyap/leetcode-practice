@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0759-set-intersection-size-at-least-two) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0645-set-mismatch) |
