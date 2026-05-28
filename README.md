@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0283-move-zeroes) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2059-unique-length-3-palindromic-subsequences) |
