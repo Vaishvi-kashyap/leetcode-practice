@@ -5,7 +5,7 @@ public:
         if (n % groupSize != 0)
             return false;
 
-        map<int, int> mp; //{nums,freq}
+        map<int, int> mp; //{value,freq}
         for (int val : hand)
             mp[val]++;
 
@@ -18,8 +18,10 @@ public:
 
             for (int i = 0; i < groupSize; i++) {
                 int card = start + i;
+
                 if (mp[card] < freq)
                     return false;
+
                 mp[card] -= freq;
             }
         }
