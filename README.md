@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0645-set-mismatch) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
