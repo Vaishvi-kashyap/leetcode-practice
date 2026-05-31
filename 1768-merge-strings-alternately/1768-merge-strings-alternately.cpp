@@ -6,7 +6,7 @@ public:
 
         while (i < word1.size() && j < word2.size()) {
             ans += word1[i];
-            ans += word2[i];
+            ans += word2[j];
             i++;
             j++;
         }
