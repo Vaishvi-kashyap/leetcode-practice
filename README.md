@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0735-asteroid-collision) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0085-maximal-rectangle) |
