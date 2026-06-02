@@ -4,7 +4,7 @@ public:
         unordered_set<int> st(nums.begin(), nums.end());
         int longest = 0;
 
-        for (int val : nums) {
+        for (int val : st) {
             if (st.find(val - 1) == st.end()) {
                 int start = val;
                 int count = 1;
