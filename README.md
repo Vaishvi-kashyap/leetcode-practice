@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1914-cyclically-rotating-a-grid) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1642-furthest-building-you-can-reach](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1642-furthest-building-you-can-reach) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1631-path-with-minimum-effort) |
+| [1642-furthest-building-you-can-reach](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1642-furthest-building-you-can-reach) |
 ## Database
 |  |
 | ------- |
