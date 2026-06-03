@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0049-group-anagrams) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -814,4 +816,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
