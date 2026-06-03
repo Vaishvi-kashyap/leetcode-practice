@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0908-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/1768-merge-strings-alternately) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/0583-delete-operation-for-two-strings) |
