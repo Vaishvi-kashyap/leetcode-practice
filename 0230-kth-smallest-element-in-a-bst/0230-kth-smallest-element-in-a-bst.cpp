@@ -12,22 +12,31 @@
  */
 class Solution {
 public:
-    int order = 0;
     int kthSmallest(TreeNode* root, int k) {
-        if (root->left) {
-            int left1 = kthSmallest(root->left, k);
-            if (left1 != -1)
-                return left1;
+        int cnt = 0, ans = -1;
+        TreeNode* curr = root;
+        while (curr) {
+            if (curr->left == NULL) {
+                cnt++;
+                if (cnt == k)
+                    ans = curr->val;
+                curr = curr->right;
+            } else {
+                TreeNode* ip = curr->left;
+                while (ip->right != NULL && ip->right != curr)
+                    ip = ip->right;
+                if (ip->right == NULL) {
+                    ip->right = curr;
+                    curr = curr->left;
+                } else {
+                    ip->right = NULL;
+                    cnt++;
+                    if (cnt == k)
+                        ans = curr->val;
+                    curr = curr->right;
+                }
+            }
         }
-        if (order + 1 == k) {
-            return root->val;
-        }
-        order += 1;
-        if (root->right) {
-            int right1 = kthSmallest(root->right, k);
-            if (right1 != -1)
-                return right1;
-        }
-        return -1;
+        return ans;
     }
 };
