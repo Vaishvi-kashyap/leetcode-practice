@@ -32,8 +32,8 @@ public:
 
         fast = head;
         slow = prev;
-        while (fast && slow) {
-            if (fast->val != slow->val)
+        while (slow) {
+            if (slow->val != fast->val)
                 return false;
             slow = slow->next;
             fast = fast->next;
