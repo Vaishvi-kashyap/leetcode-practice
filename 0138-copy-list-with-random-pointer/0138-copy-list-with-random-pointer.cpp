@@ -20,8 +20,8 @@ public:
         if (head == NULL)
             return head;
 
-        // Step 1: Interleave copied nodes
         Node* oldTemp = head;
+
         while (oldTemp) {
             Node* newNode = new Node(oldTemp->val);
             newNode->next = oldTemp->next;
@@ -29,7 +29,6 @@ public:
             oldTemp = newNode->next;
         }
 
-        // Step 2: Assign random pointers
         oldTemp = head;
         while (oldTemp) {
             if (oldTemp->random)
@@ -37,11 +36,9 @@ public:
             oldTemp = oldTemp->next->next;
         }
 
-        // Step 3: Separate the lists
         Node* newHead = head->next;
         Node* newTemp = newHead;
         oldTemp = head;
-
         while (oldTemp) {
             oldTemp->next = oldTemp->next->next;
             if (newTemp->next)
@@ -49,7 +46,6 @@ public:
             oldTemp = oldTemp->next;
             newTemp = newTemp->next;
         }
-
         return newHead;
     }
 };
