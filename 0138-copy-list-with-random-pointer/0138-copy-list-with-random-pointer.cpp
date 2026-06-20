@@ -17,16 +17,12 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if (head == NULL)
-            return head;
-
         Node* oldTemp = head;
-
         while (oldTemp) {
-            Node* newNode = new Node(oldTemp->val);
-            newNode->next = oldTemp->next;
-            oldTemp->next = newNode;
-            oldTemp = newNode->next;
+            Node* newTemp = new Node(oldTemp->val);
+            newTemp->next = oldTemp->next;
+            oldTemp->next = newTemp;
+            oldTemp = oldTemp->next->next;
         }
 
         oldTemp = head;
@@ -36,13 +32,13 @@ public:
             oldTemp = oldTemp->next->next;
         }
 
+        oldTemp = head;
         Node* newHead = head->next;
         Node* newTemp = newHead;
-        oldTemp = head;
         while (oldTemp) {
             oldTemp->next = oldTemp->next->next;
             if (newTemp->next)
-                newTemp->next = newTemp->next->next;
+                newTemp->next = oldTemp->next;
             oldTemp = oldTemp->next;
             newTemp = newTemp->next;
         }
