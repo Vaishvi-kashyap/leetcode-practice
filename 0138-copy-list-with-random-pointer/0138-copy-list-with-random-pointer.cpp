@@ -17,33 +17,33 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if(head == NULL)
+        if (head == NULL)
             return head;
-        Node* oldTemp = head;
-        while (oldTemp) {
-            Node* newTemp = new Node(oldTemp->val);
-            newTemp->next = oldTemp->next;
-            oldTemp->next = newTemp;
-            oldTemp = newTemp->next;
+        Node* oldtemp = head;
+        while (oldtemp) {
+            Node* newnode = new Node(oldtemp->val);
+            newnode->next = oldtemp->next;
+            oldtemp->next = newnode;
+            oldtemp = newnode->next;
         }
 
-        oldTemp = head;
-        while (oldTemp) {
-            if (oldTemp->random)
-                oldTemp->next->random = oldTemp->random->next;
-            oldTemp = oldTemp->next->next;
+        oldtemp = head;
+        while (oldtemp) {
+            if (oldtemp->random)
+                oldtemp->next->random = oldtemp->random->next;
+            oldtemp = oldtemp->next->next;
         }
 
-        oldTemp = head;
-        Node* newHead = head->next;
-        Node* newTemp = newHead;
-        while (oldTemp) {
-            oldTemp->next = oldTemp->next->next;
-            if (newTemp->next)
-                newTemp->next = newTemp->next->next;
-            oldTemp = oldTemp->next;
-            newTemp = newTemp->next;
+        Node* newhead = head->next;
+        Node* newtemp = newhead;
+        oldtemp = head;
+        while (oldtemp) {
+            oldtemp->next = oldtemp->next->next;
+            if (newtemp->next)
+                newtemp->next = newtemp->next->next;
+            oldtemp = oldtemp->next;
+            newtemp = newtemp->next;
         }
-        return newHead;
+        return newhead;
     }
 };
