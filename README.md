@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3903-smallest-stable-index-i](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3903-smallest-stable-index-i](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
 ## Union Find
 |  |
 | ------- |
