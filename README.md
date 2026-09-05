@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3903-smallest-stable-index-i](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Vaishvi-kashyap/leetcode-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Union Find
 |  |
 | ------- |
