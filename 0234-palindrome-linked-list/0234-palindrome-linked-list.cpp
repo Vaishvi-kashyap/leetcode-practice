@@ -13,14 +13,10 @@ public:
     bool isPalindrome(ListNode* head) {
         ListNode* slow = head;
         ListNode* fast = head;
-
         while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
-
-        if (slow)
-            cout << slow->val << endl;
 
         ListNode* prev = NULL;
         while (slow) {
