@@ -17,7 +17,9 @@ public:
                 return head;
             temp = temp->next;
         }
+
         ListNode* prevNode = reverseKGroup(temp, k);
+
         temp = head;
         for (int i = 0; i < k; i++) {
             ListNode* next = temp->next;
