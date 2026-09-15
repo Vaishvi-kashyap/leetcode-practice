@@ -8,8 +8,10 @@ public:
     }
 };
 class MyLinkedList {
-public:
+private:
     Node* head = NULL;
+
+public:
     MyLinkedList() { head = NULL; }
 
     int get(int index) {
