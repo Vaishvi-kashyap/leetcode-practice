@@ -17,6 +17,7 @@ public:
         while (temp != NULL && temp->next != NULL) {
             if (temp->val == temp->next->val) {
                 temp->next = temp->next->next;
+                continue;
             }
             temp = temp->next;
         }
