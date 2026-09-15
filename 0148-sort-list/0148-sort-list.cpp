@@ -9,11 +9,12 @@
  * };
  */
 class Solution {
-public:
+private:
     ListNode* merge(ListNode* left, ListNode* right) {
         ListNode* dummy = new ListNode(-1);
         ListNode* temp = dummy;
-        while (left && right) {
+
+        while (left != NULL && right != NULL) {
             if (left->val <= right->val) {
                 temp->next = left;
                 left = left->next;
@@ -23,33 +24,31 @@ public:
             }
             temp = temp->next;
         }
-        if (left) {
+        if (left)
             temp->next = left;
-            left = left->next;
-        }
-        if (right) {
+        else
             temp->next = right;
-            right = right->next;
-        }
         return dummy->next;
     }
+
+public:
     ListNode* sortList(ListNode* head) {
         if (head == NULL || head->next == NULL)
             return head;
+
         ListNode* slow = head;
-        ListNode* fast = head;
-        ListNode* prev = NULL;
+        ListNode* fast = head->next;
 
         while (fast && fast->next) {
-            prev = slow;
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        prev->next = NULL;
+        ListNode* second = slow->next;
+        slow->next = NULL;
 
         ListNode* left = sortList(head);
-        ListNode* right = sortList(slow);
+        ListNode* right = sortList(second);
 
         return merge(left, right);
     }
